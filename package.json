@@ -1,0 +1,12 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "Belajar Javascript tingkat lanjut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node promise/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
